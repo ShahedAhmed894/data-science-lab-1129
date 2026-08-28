@@ -1,0 +1,24 @@
+DATA CLEANING INSIGHTS
+============================================================
+Original number of records: 4,446
+Final number of records: 4,446
+Missing values before cleaning: 556
+Missing values after cleaning(using Median): 0
+Duplicate Country-Year records removed: 0
+Unique countries: 234
+Year range: 1955 - 2026
+Largest population record: India (1,476,625,576)
+Smallest population record: Holy See (496)
+
+CLEANING OPERATIONS PERFORMED
+------------------------------------------------------------
+1. Standardized column names.
+2. Removed unnecessary whitespace from text values.
+3. Converted numerical columns to appropriate numeric data types.
+4. Removed commas from large numerical values.
+5. Removed percentage symbols from percentage fields.
+6. Normalized negative values.
+7. Identified and removed duplicate Country-Year records.
+8. Detected invalid numerical values.
+9. Handled missing numerical values using median imputation.
+10. Sorted the final dataset by Country and Year.
