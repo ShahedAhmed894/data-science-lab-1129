@@ -3,7 +3,7 @@ DATA CLEANING INSIGHTS
 Original number of records: 4,446
 Final number of records: 4,446
 Missing values before cleaning: 556
-Missing values after cleaning(using Median): 0
+Missing values after cleaning: 0
 Duplicate Country-Year records removed: 0
 Unique countries: 234
 Year range: 1955 - 2026
